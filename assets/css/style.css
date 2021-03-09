@@ -13608,5 +13608,21 @@ dl {
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
   flex-grow: 1; }
+  .noti-box{
+    width:600px;
+    height:300px;
+    border:1px solid #000;
+    margin-left: 150px;
+    margin-top: 150px;
+  }
+  .noti-box2{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-family: "ubuntu-bold", sans-serif;
+    
+  }
+  .w3review{
+    
+  }
 
 /*# sourceMappingURL=style.css.map */
