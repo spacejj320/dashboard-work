@@ -13637,5 +13637,15 @@ dl {
     margin-left: 412px;
 
   }
+  .but2{
+    background: transparent linear-gradient(129deg, #EBF5F8 0%, #5254D6 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 25px;
+    opacity: 1;
+    height: 120px;
+    width: 200px;
+    margin-top: -40px;
+    margin-left: -46px;
+  }
 
 /*# sourceMappingURL=style.css.map */
