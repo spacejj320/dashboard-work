@@ -13083,7 +13083,7 @@ dl {
           bottom: 5px;
           right: -5px; }
           .navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-profile .nav-link .nav-profile-img .availability-status.online {
-            background: #1bcfb4; }
+            background: ; }
           .navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-profile .nav-link .nav-profile-img .availability-status.offline {
             background: #fe7c96; }
           .navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-profile .nav-link .nav-profile-img .availability-status.busy {
@@ -13652,6 +13652,16 @@ dl {
     margin-left: 100px;
     margin-top: 10px;
     border-radius: 10px;
+  }
+  .acc{
+    margin-top: -38px;
+    margin-left: 405px;color: #D913B8;
+    font-size: 13px;
+  }
+  .cancel{
+    margin-top: -38px;
+    margin-left: 405px;color: #3413D9;
+    font-size: 13px;
   }
 
 /*# sourceMappingURL=style.css.map */
